@@ -1,1 +1,1 @@
-# Extremely simple TypeScript example
+# Extremely simple TypeScript Node.js example
